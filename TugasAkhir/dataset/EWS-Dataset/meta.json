@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "plant",
+            "shape": "bitmap",
+            "color": "#BD10E0",
+            "geometry_config": {},
+            "id": 22816,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
